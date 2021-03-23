@@ -1,6 +1,7 @@
 local getmetatable 	= getmetatable
 local tonumber 		= tonumber
 
+
 local STRING 	= getmetatable ''
 local ANGLE 	= FindMetaTable 'Angle'
 local MATRIX 	= FindMetaTable 'VMatrix'
