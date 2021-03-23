@@ -4,6 +4,7 @@ setmetatable(net, {
 	end
 })
 
+
 local hook_Call = hook.Call
 local math_abs = math.abs
 local math_min = math.min
