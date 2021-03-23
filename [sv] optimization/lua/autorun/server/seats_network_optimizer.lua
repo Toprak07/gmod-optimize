@@ -4,6 +4,7 @@ end
 
 local hook = hook
 
+
 local ents_FindByClass = ents.FindByClass
 local EFL_NO_THINK_FUNCTION = EFL_NO_THINK_FUNCTION
 local ipairs = ipairs
