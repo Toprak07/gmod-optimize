@@ -5,6 +5,7 @@ function table.Filter(tab, callback)
 		goto abort
 	end
 
+	
 	::startfilter::
 	i = i + 1
 	if callback(tab[i]) then
