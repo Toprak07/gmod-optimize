@@ -2,6 +2,7 @@ if (SERVER) then
 	local message 	= {}
 	local pooled 	= {}
 
+	
 	util.AddNetworkString 'umsg.SendLua'
 	util.AddNetworkString 'umsg.UnPooled'
 
