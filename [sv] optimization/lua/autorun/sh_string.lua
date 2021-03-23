@@ -6,6 +6,7 @@ function string.Random(chars)
 	return str
 end
 
+
 function string:StartsWith(str)
 	return (self:sub(1, str:len()) == str)
 end
